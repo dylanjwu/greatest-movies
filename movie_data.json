@@ -1,0 +1,3103 @@
+{
+    "Amadeus": {
+        "rankings": {
+            "0": "100",
+            "1": "83",
+            "3": "53"
+        },
+        "year": "1984",
+        "avg_rank": 101
+    },
+    "The Hurt Locker": {
+        "rankings": {
+            "0": "99"
+        },
+        "year": "2008",
+        "avg_rank": 101
+    },
+    "Mad Max: Fury Road": {
+        "rankings": {
+            "0": "98",
+            "1": "207",
+            "2": "59",
+            "4": "54"
+        },
+        "year": "2015",
+        "avg_rank": 101
+    },
+    "The Truman Show": {
+        "rankings": {
+            "0": "97",
+            "1": "168",
+            "2": "36"
+        },
+        "year": "1998",
+        "avg_rank": 101
+    },
+    "Finding Nemo": {
+        "rankings": {
+            "0": "96",
+            "1": "176",
+            "4": "38"
+        },
+        "year": "2003",
+        "avg_rank": 101
+    },
+    "The Silence of the Lambs": {
+        "rankings": {
+            "0": "95",
+            "1": "21",
+            "3": "65",
+            "4": "19"
+        },
+        "year": "1991",
+        "avg_rank": 101
+    },
+    "The Circus": {
+        "rankings": {
+            "0": "94"
+        },
+        "year": "1928",
+        "avg_rank": 101
+    },
+    "Stagecoach": {
+        "rankings": {
+            "0": "93",
+            "3": "63"
+        },
+        "year": "1939",
+        "avg_rank": 101
+    },
+    "The Producers": {
+        "rankings": {
+            "0": "92"
+        },
+        "year": "1967",
+        "avg_rank": 101
+    },
+    "Little Women": {
+        "rankings": {
+            "0": "91"
+        },
+        "year": "2019",
+        "avg_rank": 101
+    },
+    "Days of Heaven": {
+        "rankings": {
+            "0": "90"
+        },
+        "year": "1978",
+        "avg_rank": 101
+    },
+    "The Best Years of Our Lives": {
+        "rankings": {
+            "0": "89",
+            "3": "37"
+        },
+        "year": "1946",
+        "avg_rank": 101
+    },
+    "The Diving Bell and the Butterfly": {
+        "rankings": {
+            "0": "88"
+        },
+        "year": "2007",
+        "avg_rank": 101
+    },
+    "On the Waterfront": {
+        "rankings": {
+            "0": "87",
+            "1": "181",
+            "3": "8"
+        },
+        "year": "1954",
+        "avg_rank": 101
+    },
+    "Cool Hand Luke": {
+        "rankings": {
+            "0": "86",
+            "1": "217"
+        },
+        "year": "1967",
+        "avg_rank": 101
+    },
+    "Annie Hall": {
+        "rankings": {
+            "0": "85",
+            "2": "75",
+            "3": "31"
+        },
+        "year": "1977",
+        "avg_rank": 101
+    },
+    "Crouching Tiger, Hidden Dragon": {
+        "rankings": {
+            "0": "84",
+            "4": "47"
+        },
+        "year": "2000",
+        "avg_rank": 101
+    },
+    "L.A. Confidential": {
+        "rankings": {
+            "0": "83",
+            "1": "126"
+        },
+        "year": "1997",
+        "avg_rank": 101
+    },
+    "The Social Network": {
+        "rankings": {
+            "0": "82"
+        },
+        "year": "2010",
+        "avg_rank": 101
+    },
+    "No Country for Old Men": {
+        "rankings": {
+            "0": "81",
+            "1": "156"
+        },
+        "year": "2007",
+        "avg_rank": 101
+    },
+    "Eternal Sunshine of the Spotless Mind": {
+        "rankings": {
+            "0": "80",
+            "1": "100",
+            "2": "67",
+            "4": "69"
+        },
+        "year": "2004",
+        "avg_rank": 101
+    },
+    "Back to the Future": {
+        "rankings": {
+            "0": "79",
+            "1": "36",
+            "4": "90"
+        },
+        "year": "1985",
+        "avg_rank": 101
+    },
+    "Nashville": {
+        "rankings": {
+            "0": "78",
+            "2": "97"
+        },
+        "year": "1975",
+        "avg_rank": 101
+    },
+    "The Last Picture Show": {
+        "rankings": {
+            "0": "77"
+        },
+        "year": "1971",
+        "avg_rank": 101
+    },
+    "Shadow of a Doubt": {
+        "rankings": {
+            "0": "76"
+        },
+        "year": "1943",
+        "avg_rank": 101
+    },
+    "The Manchurian Candidate": {
+        "rankings": {
+            "0": "75",
+            "3": "67"
+        },
+        "year": "1962",
+        "avg_rank": 101
+    },
+    "The Searchers": {
+        "rankings": {
+            "0": "74",
+            "2": "22",
+            "3": "96",
+            "4": "88"
+        },
+        "year": "1956",
+        "avg_rank": 101
+    },
+    "My Fair Lady": {
+        "rankings": {
+            "0": "73",
+            "3": "91"
+        },
+        "year": "1964",
+        "avg_rank": 101
+    },
+    "Pinocchio": {
+        "rankings": {
+            "0": "72"
+        },
+        "year": "1940",
+        "avg_rank": 101
+    },
+    "Roma": {
+        "rankings": {
+            "0": "71"
+        },
+        "year": "2018",
+        "avg_rank": 101
+    },
+    "Before Midnight": {
+        "rankings": {
+            "0": "70"
+        },
+        "year": "2013",
+        "avg_rank": 101
+    },
+    "Moonlight": {
+        "rankings": {
+            "0": "69",
+            "4": "13"
+        },
+        "year": "2016",
+        "avg_rank": 101
+    },
+    "Platoon": {
+        "rankings": {
+            "0": "68",
+            "1": "224",
+            "3": "83"
+        },
+        "year": "1986",
+        "avg_rank": 101
+    },
+    "La La Land": {
+        "rankings": {
+            "0": "67"
+        },
+        "year": "2016",
+        "avg_rank": 101
+    },
+    "Dunkirk": {
+        "rankings": {
+            "0": "66"
+        },
+        "year": "2017",
+        "avg_rank": 101
+    },
+    "Whiplash": {
+        "rankings": {
+            "0": "65",
+            "1": "43"
+        },
+        "year": "2014",
+        "avg_rank": 101
+    },
+    "Gravity": {
+        "rankings": {
+            "0": "64",
+            "4": "98"
+        },
+        "year": "2013",
+        "avg_rank": 101
+    },
+    "Alien": {
+        "rankings": {
+            "0": "63",
+            "1": "52",
+            "2": "33"
+        },
+        "year": "1979",
+        "avg_rank": 101
+    },
+    "The Lion King": {
+        "rankings": {
+            "0": "62",
+            "1": "38"
+        },
+        "year": "1994",
+        "avg_rank": 101
+    },
+    "The Shawshank Redemption": {
+        "rankings": {
+            "0": "61",
+            "1": "1",
+            "4": "24"
+        },
+        "year": "1994",
+        "avg_rank": 101
+    },
+    "The Wild Bunch": {
+        "rankings": {
+            "0": "60",
+            "3": "80"
+        },
+        "year": "1969",
+        "avg_rank": 101
+    },
+    "Fantasia": {
+        "rankings": {
+            "0": "59",
+            "3": "58"
+        },
+        "year": "1940",
+        "avg_rank": 101
+    },
+    "Marriage Story": {
+        "rankings": {
+            "0": "58"
+        },
+        "year": "2019",
+        "avg_rank": 101
+    },
+    "Manchester by the Sea": {
+        "rankings": {
+            "0": "57"
+        },
+        "year": "2016",
+        "avg_rank": 101
+    },
+    "The Irishman": {
+        "rankings": {
+            "0": "56"
+        },
+        "year": "2019",
+        "avg_rank": 101
+    },
+    "Chinatown": {
+        "rankings": {
+            "0": "55",
+            "1": "152",
+            "2": "42",
+            "3": "19",
+            "4": "27"
+        },
+        "year": "1974",
+        "avg_rank": 59.0
+    },
+    "Spotlight": {
+        "rankings": {
+            "0": "54",
+            "1": "225"
+        },
+        "year": "2015",
+        "avg_rank": 101
+    },
+    "The Lord of the Rings: The Two Towers": {
+        "rankings": {
+            "0": "53",
+            "1": "14"
+        },
+        "year": "2002",
+        "avg_rank": 101
+    },
+    "The Dark Knight": {
+        "rankings": {
+            "0": "52",
+            "1": "4",
+            "2": "15",
+            "4": "44"
+        },
+        "year": "2008",
+        "avg_rank": 101
+    },
+    "Anatomy of a Murder": {
+        "rankings": {
+            "0": "51"
+        },
+        "year": "1959",
+        "avg_rank": 101
+    },
+    "The Philadelphia Story": {
+        "rankings": {
+            "0": "50",
+            "3": "51"
+        },
+        "year": "1940",
+        "avg_rank": 101
+    },
+    "The Man Who Shot Liberty Valance": {
+        "rankings": {
+            "0": "49"
+        },
+        "year": "1962",
+        "avg_rank": 101
+    },
+    "It's a Wonderful Life": {
+        "rankings": {
+            "0": "48",
+            "1": "24",
+            "3": "11"
+        },
+        "year": "1946",
+        "avg_rank": 101
+    },
+    "Beauty and the Beast": {
+        "rankings": {
+            "0": "47"
+        },
+        "year": "1991",
+        "avg_rank": 101
+    },
+    "There Will Be Blood": {
+        "rankings": {
+            "0": "46",
+            "1": "145",
+            "2": "9",
+            "4": "56"
+        },
+        "year": "2007",
+        "avg_rank": 101
+    },
+    "Toy Story 3": {
+        "rankings": {
+            "0": "45",
+            "1": "121"
+        },
+        "year": "2010",
+        "avg_rank": 101
+    },
+    "The Adventures of Robin Hood": {
+        "rankings": {
+            "0": "44"
+        },
+        "year": "1938",
+        "avg_rank": 101
+    },
+    "The Grapes of Wrath": {
+        "rankings": {
+            "0": "43",
+            "3": "21"
+        },
+        "year": "1940",
+        "avg_rank": 101
+    },
+    "A Streetcar Named Desire": {
+        "rankings": {
+            "0": "42",
+            "3": "45"
+        },
+        "year": "1951",
+        "avg_rank": 101
+    },
+    "The Maltese Falcon": {
+        "rankings": {
+            "0": "41",
+            "2": "78",
+            "3": "23"
+        },
+        "year": "1941",
+        "avg_rank": 101
+    },
+    "Rosemary's Baby": {
+        "rankings": {
+            "0": "40"
+        },
+        "year": "1968",
+        "avg_rank": 101
+    },
+    "Inside Out": {
+        "rankings": {
+            "0": "39",
+            "1": "169"
+        },
+        "year": "2015",
+        "avg_rank": 101
+    },
+    "Ratatouille": {
+        "rankings": {
+            "0": "38"
+        },
+        "year": "2007",
+        "avg_rank": 101
+    },
+    "Star Wars: Episode IV - A New Hope": {
+        "rankings": {
+            "0": "37",
+            "1": "25"
+        },
+        "year": "1977",
+        "avg_rank": 101
+    },
+    "The Apartment": {
+        "rankings": {
+            "0": "36",
+            "1": "110",
+            "3": "93"
+        },
+        "year": "1960",
+        "avg_rank": 101
+    },
+    "12 Years a Slave": {
+        "rankings": {
+            "0": "35",
+            "1": "204",
+            "4": "40"
+        },
+        "year": "2013",
+        "avg_rank": 101
+    },
+    "Taxi Driver": {
+        "rankings": {
+            "0": "34",
+            "1": "112",
+            "2": "45",
+            "3": "47",
+            "4": "53"
+        },
+        "year": "1976",
+        "avg_rank": 58.2
+    },
+    "Goodfellas": {
+        "rankings": {
+            "0": "33",
+            "1": "17",
+            "2": "11",
+            "3": "94"
+        },
+        "year": "1990",
+        "avg_rank": 101
+    },
+    "Saving Private Ryan": {
+        "rankings": {
+            "0": "32",
+            "1": "26",
+            "4": "67"
+        },
+        "year": "1998",
+        "avg_rank": 101
+    },
+    "Double Indemnity": {
+        "rankings": {
+            "0": "31",
+            "1": "114",
+            "2": "28",
+            "3": "38",
+            "4": "30"
+        },
+        "year": "1944",
+        "avg_rank": 48.2
+    },
+    "Gone with the Wind": {
+        "rankings": {
+            "0": "30",
+            "1": "178",
+            "3": "4"
+        },
+        "year": "1939",
+        "avg_rank": 101
+    },
+    "Apocalypse Now": {
+        "rankings": {
+            "0": "29",
+            "1": "53",
+            "2": "60",
+            "3": "28",
+            "4": "23"
+        },
+        "year": "1979",
+        "avg_rank": 38.6
+    },
+    "Toy Story": {
+        "rankings": {
+            "0": "28",
+            "1": "81",
+            "2": "72"
+        },
+        "year": "1995",
+        "avg_rank": 101
+    },
+    "The Night of the Hunter": {
+        "rankings": {
+            "0": "27",
+            "4": "34"
+        },
+        "year": "1955",
+        "avg_rank": 101
+    },
+    "Notorious": {
+        "rankings": {
+            "0": "26",
+            "4": "58"
+        },
+        "year": "1946",
+        "avg_rank": 101
+    },
+    "Touch of Evil": {
+        "rankings": {
+            "0": "25"
+        },
+        "year": "1958",
+        "avg_rank": 101
+    },
+    "Some Like It Hot": {
+        "rankings": {
+            "0": "24",
+            "1": "136",
+            "2": "76",
+            "3": "14"
+        },
+        "year": "1959",
+        "avg_rank": 101
+    },
+    "Boyhood": {
+        "rankings": {
+            "0": "23",
+            "2": "91"
+        },
+        "year": "2014",
+        "avg_rank": 101
+    },
+    "WALL·E": {
+        "rankings": {
+            "0": "22",
+            "1": "61"
+        },
+        "year": "2008",
+        "avg_rank": 101
+    },
+    "The Treasure of the Sierra Madre": {
+        "rankings": {
+            "0": "21",
+            "1": "146",
+            "3": "30"
+        },
+        "year": "1948",
+        "avg_rank": 101
+    },
+    "All About Eve": {
+        "rankings": {
+            "0": "20",
+            "1": "135",
+            "3": "16",
+            "4": "21"
+        },
+        "year": "1950",
+        "avg_rank": 101
+    },
+    "The Wizard of Oz": {
+        "rankings": {
+            "0": "19",
+            "3": "6",
+            "4": "5"
+        },
+        "year": "1939",
+        "avg_rank": 101
+    },
+    "The Godfather: Part II": {
+        "rankings": {
+            "0": "18",
+            "1": "3"
+        },
+        "year": "1974",
+        "avg_rank": 101
+    },
+    "The Lord of the Rings: The Fellowship of the Ring": {
+        "rankings": {
+            "0": "17",
+            "1": "10"
+        },
+        "year": "2001",
+        "avg_rank": 101
+    },
+    "Sweet Smell of Success": {
+        "rankings": {
+            "0": "16",
+            "2": "95"
+        },
+        "year": "1957",
+        "avg_rank": 101
+    },
+    "Modern Times": {
+        "rankings": {
+            "0": "15",
+            "1": "39",
+            "2": "49",
+            "3": "81"
+        },
+        "year": "1936",
+        "avg_rank": 101
+    },
+    "North by Northwest": {
+        "rankings": {
+            "0": "14",
+            "1": "99",
+            "2": "12",
+            "3": "40"
+        },
+        "year": "1959",
+        "avg_rank": 101
+    },
+    "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb": {
+        "rankings": {
+            "0": "13",
+            "1": "66",
+            "2": "51",
+            "3": "26"
+        },
+        "year": "1964",
+        "avg_rank": 101
+    },
+    "Singin' in the Rain": {
+        "rankings": {
+            "0": "12",
+            "1": "98",
+            "3": "10"
+        },
+        "year": "1952",
+        "avg_rank": 101
+    },
+    "Psycho": {
+        "rankings": {
+            "0": "11",
+            "1": "37",
+            "2": "38",
+            "3": "18",
+            "4": "14"
+        },
+        "year": "1960",
+        "avg_rank": 23.6
+    },
+    "Vertigo": {
+        "rankings": {
+            "0": "10",
+            "1": "92",
+            "2": "20",
+            "3": "61",
+            "4": "1"
+        },
+        "year": "1958",
+        "avg_rank": 36.8
+    },
+    "Citizen Kane": {
+        "rankings": {
+            "0": "9",
+            "1": "94",
+            "2": "3",
+            "3": "1",
+            "4": "3"
+        },
+        "year": "1941",
+        "avg_rank": 22.0
+    },
+    "Schindler's List": {
+        "rankings": {
+            "0": "8",
+            "1": "6",
+            "3": "9"
+        },
+        "year": "1993",
+        "avg_rank": 101
+    },
+    "The Lord of the Rings: The Return of the King": {
+        "rankings": {
+            "0": "7",
+            "1": "7"
+        },
+        "year": "2003",
+        "avg_rank": 101
+    },
+    "Pulp Fiction": {
+        "rankings": {
+            "0": "6",
+            "1": "8",
+            "2": "35",
+            "3": "95",
+            "4": "10"
+        },
+        "year": "1994",
+        "avg_rank": 30.8
+    },
+    "City Lights": {
+        "rankings": {
+            "0": "5",
+            "1": "41",
+            "2": "16",
+            "3": "76",
+            "4": "11"
+        },
+        "year": "1931",
+        "avg_rank": 29.8
+    },
+    "Rear Window": {
+        "rankings": {
+            "0": "4",
+            "1": "50",
+            "3": "42",
+            "4": "49"
+        },
+        "year": "1954",
+        "avg_rank": 101
+    },
+    "Casablanca": {
+        "rankings": {
+            "0": "3",
+            "1": "48",
+            "3": "2",
+            "4": "2"
+        },
+        "year": "1942",
+        "avg_rank": 101
+    },
+    "12 Angry Men": {
+        "rankings": {
+            "0": "2",
+            "1": "5",
+            "4": "26"
+        },
+        "year": "1957",
+        "avg_rank": 101
+    },
+    "The Godfather": {
+        "rankings": {
+            "0": "1",
+            "1": "2",
+            "2": "2",
+            "3": "3",
+            "4": "4"
+        },
+        "year": "1972",
+        "avg_rank": 2.4
+    },
+    "The Good, the Bad and the Ugly": {
+        "rankings": {
+            "1": "9"
+        },
+        "year": "1966",
+        "avg_rank": 101
+    },
+    "Fight Club": {
+        "rankings": {
+            "1": "11"
+        },
+        "year": "1999",
+        "avg_rank": 101
+    },
+    "Forrest Gump": {
+        "rankings": {
+            "1": "12",
+            "3": "71",
+            "4": "41"
+        },
+        "year": "1994",
+        "avg_rank": 101
+    },
+    "Inception": {
+        "rankings": {
+            "1": "13"
+        },
+        "year": "2010",
+        "avg_rank": 101
+    },
+    "Star Wars: Episode V - The Empire Strikes Back": {
+        "rankings": {
+            "1": "15"
+        },
+        "year": "1980",
+        "avg_rank": 101
+    },
+    "The Matrix": {
+        "rankings": {
+            "1": "16",
+            "4": "96"
+        },
+        "year": "1999",
+        "avg_rank": 101
+    },
+    "One Flew Over the Cuckoo's Nest": {
+        "rankings": {
+            "1": "18"
+        },
+        "year": "1975",
+        "avg_rank": 101
+    },
+    "Seven Samurai": {
+        "rankings": {
+            "1": "19",
+            "2": "7"
+        },
+        "year": "1954",
+        "avg_rank": 101
+    },
+    "Se7en": {
+        "rankings": {
+            "1": "20"
+        },
+        "year": "1995",
+        "avg_rank": 101
+    },
+    "City of God": {
+        "rankings": {
+            "1": "22"
+        },
+        "year": "2002",
+        "avg_rank": 101
+    },
+    "Life Is Beautiful": {
+        "rankings": {
+            "1": "23"
+        },
+        "year": "1997",
+        "avg_rank": 101
+    },
+    "Interstellar": {
+        "rankings": {
+            "1": "27"
+        },
+        "year": "2014",
+        "avg_rank": 101
+    },
+    "Spirited Away": {
+        "rankings": {
+            "1": "28",
+            "2": "46"
+        },
+        "year": "2001",
+        "avg_rank": 101
+    },
+    "The Green Mile": {
+        "rankings": {
+            "1": "29"
+        },
+        "year": "1999",
+        "avg_rank": 101
+    },
+    "Parasite": {
+        "rankings": {
+            "1": "30",
+            "4": "70"
+        },
+        "year": "2019",
+        "avg_rank": 101
+    },
+    "Léon: The Professional": {
+        "rankings": {
+            "1": "31"
+        },
+        "year": "1994",
+        "avg_rank": 101
+    },
+    "Hara-Kiri": {
+        "rankings": {
+            "1": "32"
+        },
+        "year": "1962",
+        "avg_rank": 101
+    },
+    "The Pianist": {
+        "rankings": {
+            "1": "33"
+        },
+        "year": "2002",
+        "avg_rank": 101
+    },
+    "The Usual Suspects": {
+        "rankings": {
+            "1": "34"
+        },
+        "year": "1995",
+        "avg_rank": 101
+    },
+    "Terminator 2: Judgment Day": {
+        "rankings": {
+            "1": "35"
+        },
+        "year": "1991",
+        "avg_rank": 101
+    },
+    "American History X": {
+        "rankings": {
+            "1": "40"
+        },
+        "year": "1998",
+        "avg_rank": 101
+    },
+    "Grave of the Fireflies": {
+        "rankings": {
+            "1": "42"
+        },
+        "year": "1988",
+        "avg_rank": 101
+    },
+    "Gladiator": {
+        "rankings": {
+            "1": "44"
+        },
+        "year": "2000",
+        "avg_rank": 101
+    },
+    "The Departed": {
+        "rankings": {
+            "1": "45"
+        },
+        "year": "2006",
+        "avg_rank": 101
+    },
+    "The Intouchables": {
+        "rankings": {
+            "1": "46"
+        },
+        "year": "2011",
+        "avg_rank": 101
+    },
+    "The Prestige": {
+        "rankings": {
+            "1": "47"
+        },
+        "year": "2006",
+        "avg_rank": 101
+    },
+    "Once Upon a Time in the West": {
+        "rankings": {
+            "1": "49",
+            "2": "32"
+        },
+        "year": "1968",
+        "avg_rank": 101
+    },
+    "Cinema Paradiso": {
+        "rankings": {
+            "1": "51",
+            "4": "89"
+        },
+        "year": "1988",
+        "avg_rank": 101
+    },
+    "Memento": {
+        "rankings": {
+            "1": "54"
+        },
+        "year": "2000",
+        "avg_rank": 101
+    },
+    "Indiana Jones and the Raiders of the Lost Ark": {
+        "rankings": {
+            "1": "55"
+        },
+        "year": "1981",
+        "avg_rank": 101
+    },
+    "The Great Dictator": {
+        "rankings": {
+            "1": "56"
+        },
+        "year": "1940",
+        "avg_rank": 101
+    },
+    "The Lives of Others": {
+        "rankings": {
+            "1": "57"
+        },
+        "year": "2006",
+        "avg_rank": 101
+    },
+    "Django Unchained": {
+        "rankings": {
+            "1": "58"
+        },
+        "year": "2012",
+        "avg_rank": 101
+    },
+    "Paths of Glory": {
+        "rankings": {
+            "1": "59",
+            "2": "93"
+        },
+        "year": "1957",
+        "avg_rank": 101
+    },
+    "Sunset Blvd.": {
+        "rankings": {
+            "1": "60",
+            "3": "12",
+            "4": "18"
+        },
+        "year": "1950",
+        "avg_rank": 101
+    },
+    "Avengers: Infinity War": {
+        "rankings": {
+            "1": "62"
+        },
+        "year": "2018",
+        "avg_rank": 101
+    },
+    "The Shining": {
+        "rankings": {
+            "1": "63",
+            "2": "71",
+            "4": "82"
+        },
+        "year": "1980",
+        "avg_rank": 101
+    },
+    "Witness for the Prosecution": {
+        "rankings": {
+            "1": "64"
+        },
+        "year": "1957",
+        "avg_rank": 101
+    },
+    "Spider-Man: Into the Spider-Verse": {
+        "rankings": {
+            "1": "65"
+        },
+        "year": "2018",
+        "avg_rank": 101
+    },
+    "Joker": {
+        "rankings": {
+            "1": "67"
+        },
+        "year": "2019",
+        "avg_rank": 101
+    },
+    "Princess Mononoke": {
+        "rankings": {
+            "1": "68"
+        },
+        "year": "1997",
+        "avg_rank": 101
+    },
+    "Oldboy": {
+        "rankings": {
+            "1": "69"
+        },
+        "year": "2003",
+        "avg_rank": 101
+    },
+    "Your Name.": {
+        "rankings": {
+            "1": "70"
+        },
+        "year": "2016",
+        "avg_rank": 101
+    },
+    "Once Upon a Time in America": {
+        "rankings": {
+            "1": "71"
+        },
+        "year": "1984",
+        "avg_rank": 101
+    },
+    "The Dark Knight Rises": {
+        "rankings": {
+            "1": "72"
+        },
+        "year": "2012",
+        "avg_rank": 101
+    },
+    "Aliens": {
+        "rankings": {
+            "1": "73"
+        },
+        "year": "1986",
+        "avg_rank": 101
+    },
+    "Coco": {
+        "rankings": {
+            "1": "74"
+        },
+        "year": "2017",
+        "avg_rank": 101
+    },
+    "Capharnaüm": {
+        "rankings": {
+            "1": "75"
+        },
+        "year": "2018",
+        "avg_rank": 101
+    },
+    "Hamilton": {
+        "rankings": {
+            "1": "76"
+        },
+        "year": "2020",
+        "avg_rank": 101
+    },
+    "Avengers: Endgame": {
+        "rankings": {
+            "1": "77"
+        },
+        "year": "2019",
+        "avg_rank": 101
+    },
+    "Das Boot": {
+        "rankings": {
+            "1": "78"
+        },
+        "year": "1981",
+        "avg_rank": 101
+    },
+    "High and Low": {
+        "rankings": {
+            "1": "79"
+        },
+        "year": "1963",
+        "avg_rank": 101
+    },
+    "American Beauty": {
+        "rankings": {
+            "1": "80"
+        },
+        "year": "1999",
+        "avg_rank": 101
+    },
+    "3 Idiots": {
+        "rankings": {
+            "1": "82"
+        },
+        "year": "2009",
+        "avg_rank": 101
+    },
+    "Braveheart": {
+        "rankings": {
+            "1": "84"
+        },
+        "year": "1995",
+        "avg_rank": 101
+    },
+    "Inglourious Basterds": {
+        "rankings": {
+            "1": "85"
+        },
+        "year": "2009",
+        "avg_rank": 101
+    },
+    "Good Will Hunting": {
+        "rankings": {
+            "1": "86",
+            "4": "93"
+        },
+        "year": "1997",
+        "avg_rank": 101
+    },
+    "Star Wars: Episode VI - Return of the Jedi": {
+        "rankings": {
+            "1": "87"
+        },
+        "year": "1983",
+        "avg_rank": 101
+    },
+    "2001: A Space Odyssey": {
+        "rankings": {
+            "1": "88",
+            "2": "1",
+            "3": "22",
+            "4": "16"
+        },
+        "year": "1968",
+        "avg_rank": 101
+    },
+    "Reservoir Dogs": {
+        "rankings": {
+            "1": "89"
+        },
+        "year": "1992",
+        "avg_rank": 101
+    },
+    "M": {
+        "rankings": {
+            "1": "90",
+            "2": "52"
+        },
+        "year": "1931",
+        "avg_rank": 101
+    },
+    "Like Stars on Earth": {
+        "rankings": {
+            "1": "91"
+        },
+        "year": "2007",
+        "avg_rank": 101
+    },
+    "Dune": {
+        "rankings": {
+            "1": "93"
+        },
+        "year": "2021",
+        "avg_rank": 101
+    },
+    "Come and See": {
+        "rankings": {
+            "1": "95",
+            "2": "69"
+        },
+        "year": "1985",
+        "avg_rank": 101
+    },
+    "The Hunt": {
+        "rankings": {
+            "1": "96"
+        },
+        "year": "2012",
+        "avg_rank": 101
+    },
+    "Requiem for a Dream": {
+        "rankings": {
+            "1": "97"
+        },
+        "year": "2000",
+        "avg_rank": 101
+    },
+    "Pather Panchali": {
+        "rankings": {
+            "1": "101"
+        },
+        "year": "1955",
+        "avg_rank": 101
+    },
+    "Ikiru": {
+        "rankings": {
+            "1": "102"
+        },
+        "year": "1952",
+        "avg_rank": 101
+    },
+    "Bicycle Thieves": {
+        "rankings": {
+            "1": "103",
+            "2": "14"
+        },
+        "year": "1948",
+        "avg_rank": 101
+    },
+    "Lawrence of Arabia": {
+        "rankings": {
+            "1": "104",
+            "2": "37",
+            "3": "5",
+            "4": "46"
+        },
+        "year": "1962",
+        "avg_rank": 101
+    },
+    "The Kid": {
+        "rankings": {
+            "1": "105"
+        },
+        "year": "1921",
+        "avg_rank": 101
+    },
+    "Full Metal Jacket": {
+        "rankings": {
+            "1": "106"
+        },
+        "year": "1987",
+        "avg_rank": 101
+    },
+    "Dangal": {
+        "rankings": {
+            "1": "107"
+        },
+        "year": "2016",
+        "avg_rank": 101
+    },
+    "The Father": {
+        "rankings": {
+            "1": "108"
+        },
+        "year": "2020",
+        "avg_rank": 101
+    },
+    "A Clockwork Orange": {
+        "rankings": {
+            "1": "109",
+            "3": "46"
+        },
+        "year": "1971",
+        "avg_rank": 101
+    },
+    "Metropolis": {
+        "rankings": {
+            "1": "111",
+            "2": "77"
+        },
+        "year": "1927",
+        "avg_rank": 101
+    },
+    "Incendies": {
+        "rankings": {
+            "1": "113"
+        },
+        "year": "2010",
+        "avg_rank": 101
+    },
+    "The Sting": {
+        "rankings": {
+            "1": "115"
+        },
+        "year": "1973",
+        "avg_rank": 101
+    },
+    "A Separation": {
+        "rankings": {
+            "1": "116"
+        },
+        "year": "2011",
+        "avg_rank": 101
+    },
+    "Scarface": {
+        "rankings": {
+            "1": "117"
+        },
+        "year": "1983",
+        "avg_rank": 101
+    },
+    "1917": {
+        "rankings": {
+            "1": "118"
+        },
+        "year": "2019",
+        "avg_rank": 101
+    },
+    "Snatch": {
+        "rankings": {
+            "1": "119"
+        },
+        "year": "2000",
+        "avg_rank": 101
+    },
+    "Amélie": {
+        "rankings": {
+            "1": "120"
+        },
+        "year": "2001",
+        "avg_rank": 101
+    },
+    "To Kill a Mockingbird": {
+        "rankings": {
+            "1": "122",
+            "3": "34",
+            "4": "37"
+        },
+        "year": "1962",
+        "avg_rank": 101
+    },
+    "For a Few Dollars More": {
+        "rankings": {
+            "1": "123"
+        },
+        "year": "1965",
+        "avg_rank": 101
+    },
+    "Up": {
+        "rankings": {
+            "1": "124"
+        },
+        "year": "2009",
+        "avg_rank": 101
+    },
+    "Indiana Jones and the Last Crusade": {
+        "rankings": {
+            "1": "125"
+        },
+        "year": "1989",
+        "avg_rank": 101
+    },
+    "Heat": {
+        "rankings": {
+            "1": "127",
+            "2": "70"
+        },
+        "year": "1995",
+        "avg_rank": 101
+    },
+    "Rashomon": {
+        "rankings": {
+            "1": "128",
+            "2": "25"
+        },
+        "year": "1950",
+        "avg_rank": 101
+    },
+    "Yojimbo": {
+        "rankings": {
+            "1": "129"
+        },
+        "year": "1961",
+        "avg_rank": 101
+    },
+    "Ran": {
+        "rankings": {
+            "1": "130"
+        },
+        "year": "1985",
+        "avg_rank": 101
+    },
+    "Die Hard": {
+        "rankings": {
+            "1": "131",
+            "2": "81"
+        },
+        "year": "1988",
+        "avg_rank": 101
+    },
+    "Green Book": {
+        "rankings": {
+            "1": "132"
+        },
+        "year": "2018",
+        "avg_rank": 101
+    },
+    "Downfall": {
+        "rankings": {
+            "1": "133"
+        },
+        "year": "2004",
+        "avg_rank": 101
+    },
+    "Monty Python and the Holy Grail": {
+        "rankings": {
+            "1": "134"
+        },
+        "year": "1975",
+        "avg_rank": 101
+    },
+    "Batman Begins": {
+        "rankings": {
+            "1": "137"
+        },
+        "year": "2005",
+        "avg_rank": 101
+    },
+    "Unforgiven": {
+        "rankings": {
+            "1": "138",
+            "3": "98"
+        },
+        "year": "1992",
+        "avg_rank": 101
+    },
+    "Children of Heaven": {
+        "rankings": {
+            "1": "139"
+        },
+        "year": "1997",
+        "avg_rank": 101
+    },
+    "Howl's Moving Castle": {
+        "rankings": {
+            "1": "140"
+        },
+        "year": "2004",
+        "avg_rank": 101
+    },
+    "The Wolf of Wall Street": {
+        "rankings": {
+            "1": "141"
+        },
+        "year": "2013",
+        "avg_rank": 101
+    },
+    "Judgment at Nuremberg": {
+        "rankings": {
+            "1": "142"
+        },
+        "year": "1961",
+        "avg_rank": 101
+    },
+    "The Great Escape": {
+        "rankings": {
+            "1": "143"
+        },
+        "year": "1963",
+        "avg_rank": 101
+    },
+    "Casino": {
+        "rankings": {
+            "1": "144"
+        },
+        "year": "1995",
+        "avg_rank": 101
+    },
+    "Pan's Labyrinth": {
+        "rankings": {
+            "1": "147"
+        },
+        "year": "2006",
+        "avg_rank": 101
+    },
+    "A Beautiful Mind": {
+        "rankings": {
+            "1": "148"
+        },
+        "year": "2001",
+        "avg_rank": 101
+    },
+    "The Secret in Their Eyes": {
+        "rankings": {
+            "1": "149"
+        },
+        "year": "2009",
+        "avg_rank": 101
+    },
+    "Raging Bull": {
+        "rankings": {
+            "1": "150",
+            "2": "86",
+            "3": "24",
+            "4": "15"
+        },
+        "year": "1980",
+        "avg_rank": 101
+    },
+    "My Neighbor Totoro": {
+        "rankings": {
+            "1": "151"
+        },
+        "year": "1988",
+        "avg_rank": 101
+    },
+    "Lock, Stock and Two Smoking Barrels": {
+        "rankings": {
+            "1": "153"
+        },
+        "year": "1998",
+        "avg_rank": 101
+    },
+    "The Gold Rush": {
+        "rankings": {
+            "1": "154",
+            "3": "74"
+        },
+        "year": "1925",
+        "avg_rank": 101
+    },
+    "Shutter Island": {
+        "rankings": {
+            "1": "155"
+        },
+        "year": "2010",
+        "avg_rank": 101
+    },
+    "Dial M for Murder": {
+        "rankings": {
+            "1": "157"
+        },
+        "year": "1954",
+        "avg_rank": 101
+    },
+    "The Seventh Seal": {
+        "rankings": {
+            "1": "158",
+            "2": "43"
+        },
+        "year": "1957",
+        "avg_rank": 101
+    },
+    "Three Billboards Outside Ebbing, Missouri": {
+        "rankings": {
+            "1": "159"
+        },
+        "year": "2017",
+        "avg_rank": 101
+    },
+    "The Elephant Man": {
+        "rankings": {
+            "1": "160"
+        },
+        "year": "1980",
+        "avg_rank": 101
+    },
+    "The Thing": {
+        "rankings": {
+            "1": "161",
+            "2": "83"
+        },
+        "year": "1982",
+        "avg_rank": 101
+    },
+    "The Sixth Sense": {
+        "rankings": {
+            "1": "162"
+        },
+        "year": "1999",
+        "avg_rank": 101
+    },
+    "Klaus": {
+        "rankings": {
+            "1": "163"
+        },
+        "year": "2019",
+        "avg_rank": 101
+    },
+    "The Third Man": {
+        "rankings": {
+            "1": "164",
+            "3": "57"
+        },
+        "year": "1949",
+        "avg_rank": 101
+    },
+    "Wild Strawberries": {
+        "rankings": {
+            "1": "165"
+        },
+        "year": "1957",
+        "avg_rank": 101
+    },
+    "V for Vendetta": {
+        "rankings": {
+            "1": "166"
+        },
+        "year": "2005",
+        "avg_rank": 101
+    },
+    "Jurassic Park": {
+        "rankings": {
+            "1": "167"
+        },
+        "year": "1993",
+        "avg_rank": 101
+    },
+    "Memories of Murder": {
+        "rankings": {
+            "1": "170"
+        },
+        "year": "2003",
+        "avg_rank": 101
+    },
+    "Blade Runner": {
+        "rankings": {
+            "1": "171",
+            "4": "52"
+        },
+        "year": "1982",
+        "avg_rank": 101
+    },
+    "Trainspotting": {
+        "rankings": {
+            "1": "172"
+        },
+        "year": "1996",
+        "avg_rank": 101
+    },
+    "The Bridge on the River Kwai": {
+        "rankings": {
+            "1": "173",
+            "3": "13"
+        },
+        "year": "1957",
+        "avg_rank": 101
+    },
+    "Warrior": {
+        "rankings": {
+            "1": "174"
+        },
+        "year": "2011",
+        "avg_rank": 101
+    },
+    "Fargo": {
+        "rankings": {
+            "1": "175",
+            "3": "84",
+            "4": "28"
+        },
+        "year": "1996",
+        "avg_rank": 101
+    },
+    "Tokyo Story": {
+        "rankings": {
+            "1": "177",
+            "2": "34"
+        },
+        "year": "1953",
+        "avg_rank": 101
+    },
+    "Kill Bill: Vol. 1": {
+        "rankings": {
+            "1": "179"
+        },
+        "year": "2003",
+        "avg_rank": 101
+    },
+    "My Father and My Son": {
+        "rankings": {
+            "1": "180"
+        },
+        "year": "2005",
+        "avg_rank": 101
+    },
+    "Stalker": {
+        "rankings": {
+            "1": "182"
+        },
+        "year": "1979",
+        "avg_rank": 101
+    },
+    "Wild Tales": {
+        "rankings": {
+            "1": "183"
+        },
+        "year": "2014",
+        "avg_rank": 101
+    },
+    "Sherlock Jr.": {
+        "rankings": {
+            "1": "184"
+        },
+        "year": "1924",
+        "avg_rank": 101
+    },
+    "The General": {
+        "rankings": {
+            "1": "185",
+            "2": "66"
+        },
+        "year": "1926",
+        "avg_rank": 101
+    },
+    "The Deer Hunter": {
+        "rankings": {
+            "1": "186",
+            "3": "79",
+            "4": "87"
+        },
+        "year": "1978",
+        "avg_rank": 101
+    },
+    "Gran Torino": {
+        "rankings": {
+            "1": "187"
+        },
+        "year": "2008",
+        "avg_rank": 101
+    },
+    "Persona": {
+        "rankings": {
+            "1": "188",
+            "2": "23"
+        },
+        "year": "1966",
+        "avg_rank": 101
+    },
+    "The Grand Budapest Hotel": {
+        "rankings": {
+            "1": "189"
+        },
+        "year": "2014",
+        "avg_rank": 101
+    },
+    "Prisoners": {
+        "rankings": {
+            "1": "190"
+        },
+        "year": "2013",
+        "avg_rank": 101
+    },
+    "Mary and Max": {
+        "rankings": {
+            "1": "191"
+        },
+        "year": "2009",
+        "avg_rank": 101
+    },
+    "Before Sunrise": {
+        "rankings": {
+            "1": "192"
+        },
+        "year": "1995",
+        "avg_rank": 101
+    },
+    "Mr. Smith Goes to Washington": {
+        "rankings": {
+            "1": "193",
+            "3": "29",
+            "4": "73"
+        },
+        "year": "1939",
+        "avg_rank": 101
+    },
+    "Room": {
+        "rankings": {
+            "1": "194"
+        },
+        "year": "2015",
+        "avg_rank": 101
+    },
+    "In the Name of the Father": {
+        "rankings": {
+            "1": "195"
+        },
+        "year": "1993",
+        "avg_rank": 101
+    },
+    "Catch Me If You Can": {
+        "rankings": {
+            "1": "196"
+        },
+        "year": "2002",
+        "avg_rank": 101
+    },
+    "Barry Lyndon": {
+        "rankings": {
+            "1": "197",
+            "2": "85"
+        },
+        "year": "1975",
+        "avg_rank": 101
+    },
+    "Gone Girl": {
+        "rankings": {
+            "1": "198"
+        },
+        "year": "2014",
+        "avg_rank": 101
+    },
+    "Hacksaw Ridge": {
+        "rankings": {
+            "1": "199"
+        },
+        "year": "2016",
+        "avg_rank": 101
+    },
+    "Andhadhun": {
+        "rankings": {
+            "1": "200"
+        },
+        "year": "2018",
+        "avg_rank": 101
+    },
+    "To Be or Not to Be": {
+        "rankings": {
+            "1": "201"
+        },
+        "year": "1942",
+        "avg_rank": 101
+    },
+    "The Passion of Joan of Arc": {
+        "rankings": {
+            "1": "202",
+            "2": "31"
+        },
+        "year": "1928",
+        "avg_rank": 101
+    },
+    "Ford v Ferrari": {
+        "rankings": {
+            "1": "203"
+        },
+        "year": "2019",
+        "avg_rank": 101
+    },
+    "The Big Lebowski": {
+        "rankings": {
+            "1": "205"
+        },
+        "year": "1998",
+        "avg_rank": 101
+    },
+    "How to Train Your Dragon": {
+        "rankings": {
+            "1": "206"
+        },
+        "year": "2010",
+        "avg_rank": 101
+    },
+    "Dead Poets Society": {
+        "rankings": {
+            "1": "208"
+        },
+        "year": "1989",
+        "avg_rank": 101
+    },
+    "Autumn Sonata": {
+        "rankings": {
+            "1": "209"
+        },
+        "year": "1978",
+        "avg_rank": 101
+    },
+    "Ben-Hur": {
+        "rankings": {
+            "1": "210",
+            "3": "72"
+        },
+        "year": "1959",
+        "avg_rank": 101
+    },
+    "The Wages of Fear": {
+        "rankings": {
+            "1": "211"
+        },
+        "year": "1953",
+        "avg_rank": 101
+    },
+    "Million Dollar Baby": {
+        "rankings": {
+            "1": "212",
+            "4": "63"
+        },
+        "year": "2004",
+        "avg_rank": 101
+    },
+    "Harry Potter and the Deathly Hallows: Part 2": {
+        "rankings": {
+            "1": "213"
+        },
+        "year": "2011",
+        "avg_rank": 101
+    },
+    "The Handmaiden": {
+        "rankings": {
+            "1": "214"
+        },
+        "year": "2016",
+        "avg_rank": 101
+    },
+    "Network": {
+        "rankings": {
+            "1": "215",
+            "3": "66"
+        },
+        "year": "1976",
+        "avg_rank": 101
+    },
+    "Stand by Me": {
+        "rankings": {
+            "1": "216"
+        },
+        "year": "1986",
+        "avg_rank": 101
+    },
+    "Logan": {
+        "rankings": {
+            "1": "218"
+        },
+        "year": "2017",
+        "avg_rank": 101
+    },
+    "The 400 Blows": {
+        "rankings": {
+            "1": "219",
+            "2": "29"
+        },
+        "year": "1959",
+        "avg_rank": 101
+    },
+    "Gangs of Wasseypur": {
+        "rankings": {
+            "1": "220"
+        },
+        "year": "2012",
+        "avg_rank": 101
+    },
+    "Hachi: A Dog's Tale": {
+        "rankings": {
+            "1": "221"
+        },
+        "year": "2009",
+        "avg_rank": 101
+    },
+    "La Haine": {
+        "rankings": {
+            "1": "222"
+        },
+        "year": "1995",
+        "avg_rank": 101
+    },
+    "The Bandit": {
+        "rankings": {
+            "1": "223"
+        },
+        "year": "1996",
+        "avg_rank": 101
+    },
+    "A Silent Voice: The Movie": {
+        "rankings": {
+            "1": "226"
+        },
+        "year": "2016",
+        "avg_rank": 101
+    },
+    "Monty Python's Life of Brian": {
+        "rankings": {
+            "1": "227"
+        },
+        "year": "1979",
+        "avg_rank": 101
+    },
+    "Rebecca": {
+        "rankings": {
+            "1": "228"
+        },
+        "year": "1940",
+        "avg_rank": 101
+    },
+    "Monsters, Inc.": {
+        "rankings": {
+            "1": "229"
+        },
+        "year": "2001",
+        "avg_rank": 101
+    },
+    "Hotel Rwanda": {
+        "rankings": {
+            "1": "230"
+        },
+        "year": "2004",
+        "avg_rank": 101
+    },
+    "In the Mood for Love": {
+        "rankings": {
+            "1": "231",
+            "2": "8"
+        },
+        "year": "2000",
+        "avg_rank": 101
+    },
+    "Rush": {
+        "rankings": {
+            "1": "232"
+        },
+        "year": "2013",
+        "avg_rank": 101
+    },
+    "Into the Wild": {
+        "rankings": {
+            "1": "233"
+        },
+        "year": "2007",
+        "avg_rank": 101
+    },
+    "Andrei Rublev": {
+        "rankings": {
+            "1": "234",
+            "2": "40"
+        },
+        "year": "1966",
+        "avg_rank": 101
+    },
+    "Love's a Bitch": {
+        "rankings": {
+            "1": "235"
+        },
+        "year": "2000",
+        "avg_rank": 101
+    },
+    "Rocky": {
+        "rankings": {
+            "1": "236",
+            "3": "78",
+            "4": "45"
+        },
+        "year": "1976",
+        "avg_rank": 101
+    },
+    "It Happened One Night": {
+        "rankings": {
+            "1": "237",
+            "2": "80",
+            "3": "35",
+            "4": "84"
+        },
+        "year": "1934",
+        "avg_rank": 101
+    },
+    "Nausicaä of the Valley of the Wind": {
+        "rankings": {
+            "1": "238"
+        },
+        "year": "1984",
+        "avg_rank": 101
+    },
+    "Neon Genesis Evangelion: The End of Evangelion": {
+        "rankings": {
+            "1": "239"
+        },
+        "year": "1997",
+        "avg_rank": 101
+    },
+    "The Battle of Algiers": {
+        "rankings": {
+            "1": "240",
+            "2": "89"
+        },
+        "year": "1966",
+        "avg_rank": 101
+    },
+    "Before Sunset": {
+        "rankings": {
+            "1": "241"
+        },
+        "year": "2004",
+        "avg_rank": 101
+    },
+    "Fanny and Alexander": {
+        "rankings": {
+            "1": "242"
+        },
+        "year": "1982",
+        "avg_rank": 101
+    },
+    "Three Colors: Red": {
+        "rankings": {
+            "1": "243"
+        },
+        "year": "1994",
+        "avg_rank": 101
+    },
+    "Demon Slayer: Mugen Train": {
+        "rankings": {
+            "1": "244"
+        },
+        "year": "2020",
+        "avg_rank": 101
+    },
+    "Paris, Texas": {
+        "rankings": {
+            "1": "245"
+        },
+        "year": "1984",
+        "avg_rank": 101
+    },
+    "The Princess Bride": {
+        "rankings": {
+            "1": "246",
+            "4": "86"
+        },
+        "year": "1987",
+        "avg_rank": 101
+    },
+    "Raatchasan": {
+        "rankings": {
+            "1": "247"
+        },
+        "year": "2018",
+        "avg_rank": 101
+    },
+    "Rififi": {
+        "rankings": {
+            "1": "248"
+        },
+        "year": "1955",
+        "avg_rank": 101
+    },
+    "Nights of Cabiria": {
+        "rankings": {
+            "1": "249"
+        },
+        "year": "1957",
+        "avg_rank": 101
+    },
+    "Drishyam": {
+        "rankings": {
+            "1": "250"
+        },
+        "year": "2013",
+        "avg_rank": 101
+    },
+    "Jeanne Dielman, 23, Quai du Commerce, 1080 Bruxelles": {
+        "rankings": {
+            "2": "4"
+        },
+        "year": "1975",
+        "avg_rank": 101
+    },
+    "Raiders of the Lost Ark": {
+        "rankings": {
+            "2": "5",
+            "3": "60",
+            "4": "75"
+        },
+        "year": "1981",
+        "avg_rank": 101
+    },
+    "La Dolce Vita": {
+        "rankings": {
+            "2": "6"
+        },
+        "year": "1960",
+        "avg_rank": 101
+    },
+    "Singin’ in the Rain": {
+        "rankings": {
+            "2": "10",
+            "4": "12"
+        },
+        "year": "1952",
+        "avg_rank": 101
+    },
+    "Mulholland Drive": {
+        "rankings": {
+            "2": "13"
+        },
+        "year": "2001",
+        "avg_rank": 101
+    },
+    "Grand Illusion": {
+        "rankings": {
+            "2": "17"
+        },
+        "year": "1937",
+        "avg_rank": 101
+    },
+    "His Girl Friday": {
+        "rankings": {
+            "2": "18"
+        },
+        "year": "1940",
+        "avg_rank": 101
+    },
+    "The Red Shoes": {
+        "rankings": {
+            "2": "19"
+        },
+        "year": "1948",
+        "avg_rank": 101
+    },
+    "Beau Travail": {
+        "rankings": {
+            "2": "21"
+        },
+        "year": "1999",
+        "avg_rank": 101
+    },
+    "Do the Right Thing": {
+        "rankings": {
+            "2": "24",
+            "4": "77"
+        },
+        "year": "1989",
+        "avg_rank": 101
+    },
+    "The Rules of the Game": {
+        "rankings": {
+            "2": "26"
+        },
+        "year": "1939",
+        "avg_rank": 101
+    },
+    "Jaws": {
+        "rankings": {
+            "2": "27",
+            "3": "48",
+            "4": "22"
+        },
+        "year": "1975",
+        "avg_rank": 101
+    },
+    "Star Wars": {
+        "rankings": {
+            "2": "30",
+            "3": "15",
+            "4": "7"
+        },
+        "year": "1977",
+        "avg_rank": 101
+    },
+    "Sansho the Bailiff": {
+        "rankings": {
+            "2": "39"
+        },
+        "year": "1954",
+        "avg_rank": 101
+    },
+    "The Umbrellas of Cherbourg": {
+        "rankings": {
+            "2": "41"
+        },
+        "year": "1964",
+        "avg_rank": 101
+    },
+    "Lost in Translation": {
+        "rankings": {
+            "2": "44"
+        },
+        "year": "2003",
+        "avg_rank": 101
+    },
+    "Night of the Living Dead": {
+        "rankings": {
+            "2": "47"
+        },
+        "year": "1968",
+        "avg_rank": 101
+    },
+    "Battleship Potemkin": {
+        "rankings": {
+            "2": "48"
+        },
+        "year": "1925",
+        "avg_rank": 101
+    },
+    "Breathless": {
+        "rankings": {
+            "2": "50"
+        },
+        "year": "1960",
+        "avg_rank": 101
+    },
+    "The Bitter Tears of Petra von Kant": {
+        "rankings": {
+            "2": "54"
+        },
+        "year": "1972",
+        "avg_rank": 101
+    },
+    "Rome, Open City": {
+        "rankings": {
+            "2": "55"
+        },
+        "year": "1945",
+        "avg_rank": 101
+    },
+    "Nosferatu": {
+        "rankings": {
+            "2": "56"
+        },
+        "year": "1922",
+        "avg_rank": 101
+    },
+    "Airplane!": {
+        "rankings": {
+            "2": "57"
+        },
+        "year": "1980",
+        "avg_rank": 101
+    },
+    "Under the Skin": {
+        "rankings": {
+            "2": "58"
+        },
+        "year": "2013",
+        "avg_rank": 101
+    },
+    "Brokeback Mountain": {
+        "rankings": {
+            "2": "61",
+            "4": "39"
+        },
+        "year": "2005",
+        "avg_rank": 101
+    },
+    "Duck Soup": {
+        "rankings": {
+            "2": "62",
+            "3": "85"
+        },
+        "year": "1933",
+        "avg_rank": 101
+    },
+    "The Blair Witch Project": {
+        "rankings": {
+            "2": "63"
+        },
+        "year": "1999",
+        "avg_rank": 101
+    },
+    "All the President’s Men": {
+        "rankings": {
+            "2": "64"
+        },
+        "year": "1976",
+        "avg_rank": 101
+    },
+    "The Texas Chain Saw Massacre": {
+        "rankings": {
+            "2": "68"
+        },
+        "year": "1974",
+        "avg_rank": 101
+    },
+    "Killer of Sheep": {
+        "rankings": {
+            "2": "73"
+        },
+        "year": "1977",
+        "avg_rank": 101
+    },
+    "A Woman Under the Influence": {
+        "rankings": {
+            "2": "74"
+        },
+        "year": "1974",
+        "avg_rank": 101
+    },
+    "This Is Spinal Tap": {
+        "rankings": {
+            "2": "79"
+        },
+        "year": "1984",
+        "avg_rank": 101
+    },
+    "The Conformist": {
+        "rankings": {
+            "2": "82"
+        },
+        "year": "1970",
+        "avg_rank": 101
+    },
+    "Daughters of the Dust": {
+        "rankings": {
+            "2": "84"
+        },
+        "year": "1991",
+        "avg_rank": 101
+    },
+    "Seven": {
+        "rankings": {
+            "2": "87"
+        },
+        "year": "1995",
+        "avg_rank": 101
+    },
+    "Aguirre, the Wrath of God": {
+        "rankings": {
+            "2": "88"
+        },
+        "year": "1972",
+        "avg_rank": 101
+    },
+    "Women on the Verge of a Nervous Breakdown": {
+        "rankings": {
+            "2": "90"
+        },
+        "year": "1988",
+        "avg_rank": 101
+    },
+    "The Discreet Charm of the Bourgeoisie": {
+        "rankings": {
+            "2": "92"
+        },
+        "year": "1972",
+        "avg_rank": 101
+    },
+    "Secrets & Lies": {
+        "rankings": {
+            "2": "94"
+        },
+        "year": "1996",
+        "avg_rank": 101
+    },
+    "The Cabinet of Dr. Caligari": {
+        "rankings": {
+            "2": "96"
+        },
+        "year": "1920",
+        "avg_rank": 101
+    },
+    "Don’t Look Now": {
+        "rankings": {
+            "2": "98"
+        },
+        "year": "1973",
+        "avg_rank": 101
+    },
+    "Bonnie and Clyde": {
+        "rankings": {
+            "2": "99",
+            "3": "27"
+        },
+        "year": "1967",
+        "avg_rank": 101
+    },
+    "Get Out": {
+        "rankings": {
+            "2": "100",
+            "4": "85"
+        },
+        "year": "2017",
+        "avg_rank": 101
+    },
+    "The Graduate": {
+        "rankings": {
+            "3": "7",
+            "4": "48"
+        },
+        "year": "1967",
+        "avg_rank": 101
+    },
+    "The African Queen": {
+        "rankings": {
+            "3": "17"
+        },
+        "year": "1951",
+        "avg_rank": 101
+    },
+    "One Flew Over the Cuckoo's Nest ": {
+        "rankings": {
+            "3": "20"
+        },
+        "year": "1975",
+        "avg_rank": 101
+    },
+    "E.T.:  The Extra-Terrestrial": {
+        "rankings": {
+            "3": "25"
+        },
+        "year": "1982",
+        "avg_rank": 101
+    },
+    "The Godfather Part II": {
+        "rankings": {
+            "3": "32"
+        },
+        "year": "1974",
+        "avg_rank": 101
+    },
+    "High Noon": {
+        "rankings": {
+            "3": "33"
+        },
+        "year": "1952",
+        "avg_rank": 101
+    },
+    "Midnight Cowboy": {
+        "rankings": {
+            "3": "36"
+        },
+        "year": "1969",
+        "avg_rank": 101
+    },
+    "Doctor Zhivago": {
+        "rankings": {
+            "3": "39"
+        },
+        "year": "1965",
+        "avg_rank": 101
+    },
+    "West Side Story": {
+        "rankings": {
+            "3": "41",
+            "4": "72"
+        },
+        "year": "1961",
+        "avg_rank": 101
+    },
+    "King Kong": {
+        "rankings": {
+            "3": "43",
+            "4": "59"
+        },
+        "year": "1933",
+        "avg_rank": 101
+    },
+    "The Birth of a Nation": {
+        "rankings": {
+            "3": "44"
+        },
+        "year": "1915",
+        "avg_rank": 101
+    },
+    "Snow White and the Seven Dwarfs": {
+        "rankings": {
+            "3": "49",
+            "4": "9"
+        },
+        "year": "1937",
+        "avg_rank": 101
+    },
+    "Butch Cassidy and the Sundance Kid": {
+        "rankings": {
+            "3": "50",
+            "4": "99"
+        },
+        "year": "1969",
+        "avg_rank": 101
+    },
+    "From Here to Eternity": {
+        "rankings": {
+            "3": "52"
+        },
+        "year": "1953",
+        "avg_rank": 101
+    },
+    "All Quiet on the Western Front": {
+        "rankings": {
+            "3": "54"
+        },
+        "year": "1930",
+        "avg_rank": 101
+    },
+    "The Sound of Music": {
+        "rankings": {
+            "3": "55",
+            "4": "43"
+        },
+        "year": "1965",
+        "avg_rank": 101
+    },
+    "M*A*S*H": {
+        "rankings": {
+            "3": "56"
+        },
+        "year": "1970",
+        "avg_rank": 101
+    },
+    "Rebel Without a Cause": {
+        "rankings": {
+            "3": "59"
+        },
+        "year": "1955",
+        "avg_rank": 101
+    },
+    "Tootsie": {
+        "rankings": {
+            "3": "62"
+        },
+        "year": "1982",
+        "avg_rank": 101
+    },
+    "Close Encounters of the Third Kind": {
+        "rankings": {
+            "3": "64"
+        },
+        "year": "1977",
+        "avg_rank": 101
+    },
+    "An American in Paris": {
+        "rankings": {
+            "3": "68"
+        },
+        "year": "1951",
+        "avg_rank": 101
+    },
+    "Shane": {
+        "rankings": {
+            "3": "69"
+        },
+        "year": "1953",
+        "avg_rank": 101
+    },
+    "The French Connection": {
+        "rankings": {
+            "3": "70"
+        },
+        "year": "1971",
+        "avg_rank": 101
+    },
+    "Wuthering Heights": {
+        "rankings": {
+            "3": "73"
+        },
+        "year": "1939",
+        "avg_rank": 101
+    },
+    "Dances with Wolves": {
+        "rankings": {
+            "3": "75"
+        },
+        "year": "1990",
+        "avg_rank": 101
+    },
+    "American Graffiti": {
+        "rankings": {
+            "3": "77"
+        },
+        "year": "1973",
+        "avg_rank": 101
+    },
+    "Giant": {
+        "rankings": {
+            "3": "82"
+        },
+        "year": "1956",
+        "avg_rank": 101
+    },
+    "Mutiny on the Bounty": {
+        "rankings": {
+            "3": "86"
+        },
+        "year": "1935",
+        "avg_rank": 101
+    },
+    "Frankenstein": {
+        "rankings": {
+            "3": "87",
+            "4": "31"
+        },
+        "year": "1931",
+        "avg_rank": 101
+    },
+    "Easy Rider": {
+        "rankings": {
+            "3": "88"
+        },
+        "year": "1969",
+        "avg_rank": 101
+    },
+    "Patton": {
+        "rankings": {
+            "3": "89"
+        },
+        "year": "1970",
+        "avg_rank": 101
+    },
+    "The Jazz Singer": {
+        "rankings": {
+            "3": "90"
+        },
+        "year": "1928",
+        "avg_rank": 101
+    },
+    "A Place in the Sun": {
+        "rankings": {
+            "3": "92"
+        },
+        "year": "1951",
+        "avg_rank": 101
+    },
+    "Bringing Up Baby": {
+        "rankings": {
+            "3": "97"
+        },
+        "year": "1938",
+        "avg_rank": 101
+    },
+    "Guess Who's Coming to Dinner": {
+        "rankings": {
+            "3": "99"
+        },
+        "year": "1967",
+        "avg_rank": 101
+    },
+    "Yankee Doodle Dandy": {
+        "rankings": {
+            "3": "100"
+        },
+        "year": "1942",
+        "avg_rank": 101
+    },
+    "Bridesmaids": {
+        "rankings": {
+            "4": "100"
+        },
+        "year": "2011",
+        "avg_rank": 101
+    },
+    "GoodFellas": {
+        "rankings": {
+            "4": "97"
+        },
+        "year": "1990",
+        "avg_rank": 101
+    },
+    "Halloween": {
+        "rankings": {
+            "4": "95"
+        },
+        "year": "1978",
+        "avg_rank": 101
+    },
+    "The Color Purple": {
+        "rankings": {
+            "4": "94"
+        },
+        "year": "1985",
+        "avg_rank": 101
+    },
+    "Stand By Me": {
+        "rankings": {
+            "4": "92"
+        },
+        "year": "1985",
+        "avg_rank": 101
+    },
+    "Thelma & Louise": {
+        "rankings": {
+            "4": "91"
+        },
+        "year": "1991",
+        "avg_rank": 101
+    },
+    "Almost Famous": {
+        "rankings": {
+            "4": "83"
+        },
+        "year": "2000",
+        "avg_rank": 101
+    },
+    "Shrek": {
+        "rankings": {
+            "4": "81"
+        },
+        "year": "2000",
+        "avg_rank": 101
+    },
+    "Precious — Based on the Novel “Push” By Sapphire": {
+        "rankings": {
+            "4": "80"
+        },
+        "year": "2009",
+        "avg_rank": 101
+    },
+    "Willy Wonka and the Chocolate Factory": {
+        "rankings": {
+            "4": "79"
+        },
+        "year": "1971",
+        "avg_rank": 101
+    },
+    "Boogie Nights": {
+        "rankings": {
+            "4": "78"
+        },
+        "year": "1999",
+        "avg_rank": 101
+    },
+    "Moulin Rouge!": {
+        "rankings": {
+            "4": "76"
+        },
+        "year": "2001",
+        "avg_rank": 101
+    },
+    "Moonstruck": {
+        "rankings": {
+            "4": "74"
+        },
+        "year": "1987",
+        "avg_rank": 101
+    },
+    "Blazing Saddles": {
+        "rankings": {
+            "4": "71"
+        },
+        "year": "1974",
+        "avg_rank": 101
+    },
+    "Cabaret": {
+        "rankings": {
+            "4": "68"
+        },
+        "year": "1972",
+        "avg_rank": 101
+    },
+    "No Country For Old Men": {
+        "rankings": {
+            "4": "66"
+        },
+        "year": "2007",
+        "avg_rank": 101
+    },
+    "The Piano": {
+        "rankings": {
+            "4": "65"
+        },
+        "year": "1993",
+        "avg_rank": 101
+    },
+    "Silver Linings Playbook": {
+        "rankings": {
+            "4": "64"
+        },
+        "year": "2012",
+        "avg_rank": 101
+    },
+    "Roman Holiday": {
+        "rankings": {
+            "4": "62"
+        },
+        "year": "1953",
+        "avg_rank": 101
+    },
+    "Goldfinger": {
+        "rankings": {
+            "4": "60"
+        },
+        "year": "1964",
+        "avg_rank": 101
+    },
+    "E.T. the Extra-Terrestrial": {
+        "rankings": {
+            "4": "57"
+        },
+        "year": "1982",
+        "avg_rank": 101
+    },
+    "Bonnie & Clyde": {
+        "rankings": {
+            "4": "55"
+        },
+        "year": "1967",
+        "avg_rank": 101
+    },
+    "Guess Who’s Coming to Dinner": {
+        "rankings": {
+            "4": "51"
+        },
+        "year": "1967",
+        "avg_rank": 101
+    },
+    "Mulholland Dr.": {
+        "rankings": {
+            "4": "50"
+        },
+        "year": "2001",
+        "avg_rank": 101
+    },
+    "Alien (1979) and Aliens": {
+        "rankings": {
+            "4": "42"
+        },
+        "year": "1986",
+        "avg_rank": 101
+    },
+    "Pan’s Labyrinth": {
+        "rankings": {
+            "4": "36"
+        },
+        "year": "2006",
+        "avg_rank": 101
+    },
+    "Some Like it Hot": {
+        "rankings": {
+            "4": "35"
+        },
+        "year": "1959",
+        "avg_rank": 101
+    },
+    "Gone With the Wind": {
+        "rankings": {
+            "4": "33"
+        },
+        "year": "1939",
+        "avg_rank": 101
+    },
+    "One Flew Over the Cuckoo’s Nest": {
+        "rankings": {
+            "4": "32"
+        },
+        "year": "1975",
+        "avg_rank": 101
+    },
+    "Dr. Strangelove": {
+        "rankings": {
+            "4": "29"
+        },
+        "year": "1964",
+        "avg_rank": 101
+    },
+    "The Exorcist": {
+        "rankings": {
+            "4": "25"
+        },
+        "year": "1973",
+        "avg_rank": 101
+    },
+    "When Harry Met Sally": {
+        "rankings": {
+            "4": "20"
+        },
+        "year": "1989",
+        "avg_rank": 101
+    },
+    "It’s a Wonderful Life": {
+        "rankings": {
+            "4": "17"
+        },
+        "year": "1946",
+        "avg_rank": 101
+    },
+    "Titanic": {
+        "rankings": {
+            "4": "8"
+        },
+        "year": "1997",
+        "avg_rank": 101
+    },
+    "Schindler’s List": {
+        "rankings": {
+            "4": "6"
+        },
+        "year": "1993",
+        "avg_rank": 101
+    }
+}

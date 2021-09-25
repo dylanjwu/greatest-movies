@@ -1,4 +1,5 @@
 from MovieList import MovieList
+import json
 
 url_file = open("urls.txt", "r") 
 URLS = [line for line in url_file.read().split('\n')]
@@ -25,15 +26,6 @@ LISTS = []
 for i in range(len(URLS)):
     LISTS.append({'url': URLS[i], 'query': QUERIES[i], 'pattern': PATTERNS[i]})
 
-def get_list1():
-    l = MovieList(LISTS[0])
-    return l.parse_movies()
-
-def get_list():
-    l = MovieList(LISTS[4])
-    return l.parse_movies()
-
-
 def get_master_collection():
     master_collection = {}
     for j in range(0,len(LISTS)-1): #excluding last list, which has no pattern yet
@@ -56,14 +48,17 @@ def get_master_collection():
 
 master_collection = get_master_collection()
 
-sorted_collection = sorted(master_collection.items(), key=lambda item: item[1]['avg_rank'])
-total=0
-for key,val in master_collection.items():
-    if len(val['rankings']) >= 3:
-        total+=1
-        print(key, val)
-print(total)
-sorted_list = [key for key,val in sorted_collection]
+with open('movie_data.json', 'w') as f:
+    json.dump(master_collection, f, ensure_ascii=False, indent=4)
+
+# sorted_collection = sorted(master_collection.items(), key=lambda item: item[1]['avg_rank'])
+# total=0
+# for key,val in master_collection.items():
+#     if len(val['rankings']) >= 3:
+#         total+=1
+#         print(key, val)
+# print(total)
+# sorted_list = [key for key,val in sorted_collection]
 # print(sorted_list[:100])
 
 
